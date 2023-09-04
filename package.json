@@ -1,0 +1,24 @@
+{
+  "name": "sonik-ocpp",
+  "version": "1.0.0",
+  "description": "sonik",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrakashThakur47/sonik-ocpp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrakashThakur47/sonik-ocpp/issues"
+  },
+  "homepage": "https://github.com/PrakashThakur47/sonik-ocpp#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "ws": "^8.13.0"
+  }
+}
